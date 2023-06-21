@@ -93,7 +93,7 @@ ol {
     margin: 30px 0;
     width: 100%;
     height: 500px;
-    background-image: url(/media/fullsize_background.png);
+    background-image: url(./media/fullsize_background.png);
     background-clip: border-box;
     background-position: -50px -100px;
 }
@@ -421,7 +421,7 @@ input::placeholder {
     font-weight: 500;
 }
 .form-section {
-    background-image: url(/media/windows.png), url(/media/form-lines.svg);
+    background-image: url(./media/windows.png), url(./media/form-lines.svg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: bottom right;
@@ -436,7 +436,7 @@ input::placeholder {
     margin: 50px 0;
     height: 50%;
     background-color: #fff;
-    background-image: url(/media/workers.png);
+    background-image: url(./media/workers.png);
     background-repeat: no-repeat;
     background-size: 50%;
 }
@@ -723,7 +723,7 @@ input:checked + label > img {
 }
 
 .advanatages-section {
-    background-image: url(/media/advantages-v2.png);
+    background-image: url(./media/advantages-v2.png);
     background-repeat: no-repeat;
     background-size: cover;
     /* background-position: -50%; */
@@ -772,7 +772,7 @@ input:checked + label > img {
 /* Company */
 
 .company {
-    background-image: url(/media/company-background.png);
+    background-image: url(./media/company-background.png);
     margin: 50px 0;
     background-repeat: no-repeat;
     height: 60vh;
@@ -1038,11 +1038,11 @@ footer p {
                 rgba(255, 255, 255, 0.5),
                 rgba(255, 255, 255, 0.5)
             ),
-            url(/media/advantages-v2.png);
+            url(./media/advantages-v2.png);
     }
     .company__pic {
         display: block;
-        background-image: url(/media/company-background.png);
+        background-image: url(./media/company-background.png);
         background-repeat: no-repeat;
         background-size: cover;
         width: 100%;
@@ -1148,7 +1148,7 @@ footer p {
 }
 .stepsMedia {
     display: none;
-    background-image: url(/media/workersFull.png);
+    background-image: url(./media/workersFull.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
